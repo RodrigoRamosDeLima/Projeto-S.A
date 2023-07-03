@@ -1,8 +1,0 @@
-@import url(global.css);
-/* Pagina de perfil */
-@import url(./perfil/headerPerfil.css);
-@import url(./perfil/conteudoPerfil.css);
-/* Pagina de cadastro */
-@import url(./cadastro/cadastro.css);
-/* Responsivo */
-@import url(responsivo.css);
